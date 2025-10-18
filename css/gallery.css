@@ -10,17 +10,17 @@ h1{
         margin-bottom: 20px;
 }
 .preview{
-        width: 750px;
-        margin: 0 auto 30px auto;
-        height: 450px;
-        background:   #fff;
-        border: 6px solid #444;
-        border-radius: 10px;
-        box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        overflow: hidden;
+        width: 700px;
+ 		height: 450px;
+ 		margin: 0 auto 30px auto;
+  		background-color: #fff;
+  		border: 6px solid #444;
+  		box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  		display: flex;
+  		justify-content: center;
+ 		align-items: center;
+ 		border-radius: 10px;
+ 		overflow: hidden;
 }
 .preview img{
         width: 100%;
@@ -53,3 +53,4 @@ h1{
         box-shadow: 0 0px 12px rgba(0, 0, 0, 0.2);
         outline: none;
 }
+
